@@ -1,5 +1,3 @@
-# REPOSITORY_STRUCTURE.md
-
 # PhotonicsLab Repository Structure
 
 This document defines the official repository layout for PhotonicsLab.

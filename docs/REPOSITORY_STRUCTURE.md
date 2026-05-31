@@ -1,8 +1,8 @@
 # REPOSITORY_STRUCTURE.md
 
-# PhotonicsLab Repository Structure
+# PhotonicSim Repository Structure
 
-This document defines the official repository layout for PhotonicsLab.
+This document defines the official repository layout for PhotonicSim.
 
 The goal is to maintain a clean separation between:
 
@@ -20,7 +20,7 @@ The repository structure should remain stable throughout the project's lifetime.
 # Top-Level Structure
 
 ```text
-PhotonicsLab/
+PhotonicSim/
 │
 ├── README.md
 ├── LICENSE
@@ -30,7 +30,7 @@ PhotonicsLab/
 ├── requirements.txt
 │
 ├── docs/
-├── photonicslab/
+├── photonicSim/
 ├── tests/
 ├── examples/
 ├── benchmarks/
@@ -70,7 +70,7 @@ Purpose:
 # Main Package
 
 ```text
-photonicslab/
+photonicSim/
 │
 ├── __init__.py
 │
